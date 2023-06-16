@@ -1,11 +1,11 @@
 # langchain_LLMMath_LLMBash_Router
 
 ### Aim
-**LLM Math**
-In this we do complex word math problems.
-**LLM Bash**
-In this we use LLMs and a bash process to perform simple filesystem commands.
-**Router Chain**
+**LLM Math** <br/>
+In this we do complex word math problems. <br/>
+**LLM Bash** <br/>
+In this we use LLMs and a bash process to perform simple filesystem commands. <br/>
+**Router Chain** <br/>
 In this we see how to use the RouterChain paradigm to create a chain that dynamically selects the next chain to use for a given input.<br/>
 Router chains are made up of two components:<br/>
 - The RouterChain itself (responsible for selecting the next chain to call)<br/>
