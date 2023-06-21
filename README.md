@@ -12,9 +12,9 @@ Router chains are made up of two components:<br/>
 - destination_chains: chains that the router chain can route to<br/>
 
 ### Reference
-LLM Math:- https://python.langchain.com/en/latest/modules/chains/examples/llm_math.html <br/>
-LLM Bash :- https://python.langchain.com/en/latest/modules/chains/examples/llm_bash.html <br/>
-Router Chain :- https://python.langchain.com/en/latest/modules/chains/generic/router.html <br/>
+LLM Math:- https://python.langchain.com/docs/modules/chains/additional/llm_math <br/>
+LLM Bash :- https://python.langchain.com/docs/modules/chains/additional/llm_bash <br/>
+Router Chain :- https://python.langchain.com/docs/modules/chains/foundational/router
 
 ### Prerequiste
 You required Phython in your system fyou can follow this (https://www.python.org)<br/>
